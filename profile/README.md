@@ -1,5 +1,7 @@
 # Sams Webs
 
+![Sams Webs](https://www.samswebs.com/img/logo.svg)
+
 Welcome to **Sams Webs**, a forward-thinking company dedicated to building innovative, scalable SaaS solutions that empower independent workers. Our mission is to create tools that bridge gaps, enhance workflows, and foster sustainable growth.
 
 ## 🌟 Our Vision
